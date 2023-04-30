@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background: url("/images/shapes.svg") center/cover no-repeat;
+  background: "#212A3E";
   color: #fff;
   font-family: "Mulish", verdana, sans-serif;
   height: 100vh;
